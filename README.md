@@ -21,7 +21,7 @@ ComfyUI-H3-AutoFinalize v2.1.2
    /root/comfyui/custom_nodes/ComfyUI-H3-AutoFinalize/
 4. 重启 ComfyUI。
 5. 浏览器强制刷新。
-6. 导入 MiniMax H3 连续视频工作流 v1.4.2。
+6. 导入工作流。
 
 使用
 只改一个数字：
